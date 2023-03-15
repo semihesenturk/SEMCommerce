@@ -1,0 +1,17 @@
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/bin/Debug/net6.0/SEMCommerce.Persistence.deps.json
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/bin/Debug/net6.0/SEMCommerce.Persistence.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/bin/Debug/net6.0/SEMCommerce.Persistence.pdb
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/bin/Debug/net6.0/SEMCommerce.Application.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/bin/Debug/net6.0/SEMCommerce.Domain.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/bin/Debug/net6.0/SEMCommerce.Application.pdb
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/bin/Debug/net6.0/SEMCommerce.Domain.pdb
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/obj/Debug/net6.0/SEMCommerce.Persistence.csproj.AssemblyReference.cache
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/obj/Debug/net6.0/SEMCommerce.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/obj/Debug/net6.0/SEMCommerce.Persistence.AssemblyInfoInputs.cache
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/obj/Debug/net6.0/SEMCommerce.Persistence.AssemblyInfo.cs
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/obj/Debug/net6.0/SEMCommerce.Persistence.csproj.CoreCompileInputs.cache
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/obj/Debug/net6.0/SEMCommerce.Persistence.csproj.CopyComplete
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/obj/Debug/net6.0/SEMCommerce.Persistence.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/obj/Debug/net6.0/refint/SEMCommerce.Persistence.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/obj/Debug/net6.0/SEMCommerce.Persistence.pdb
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/obj/Debug/net6.0/ref/SEMCommerce.Persistence.dll

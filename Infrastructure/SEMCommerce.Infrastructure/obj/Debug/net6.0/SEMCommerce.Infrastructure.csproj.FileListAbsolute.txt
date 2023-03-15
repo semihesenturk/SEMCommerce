@@ -1,0 +1,17 @@
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/bin/Debug/net6.0/SEMCommerce.Infrastructure.deps.json
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/bin/Debug/net6.0/SEMCommerce.Infrastructure.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/bin/Debug/net6.0/SEMCommerce.Infrastructure.pdb
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/bin/Debug/net6.0/SEMCommerce.Application.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/bin/Debug/net6.0/SEMCommerce.Domain.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/bin/Debug/net6.0/SEMCommerce.Application.pdb
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/bin/Debug/net6.0/SEMCommerce.Domain.pdb
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/obj/Debug/net6.0/SEMCommerce.Infrastructure.csproj.AssemblyReference.cache
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/obj/Debug/net6.0/SEMCommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/obj/Debug/net6.0/SEMCommerce.Infrastructure.AssemblyInfoInputs.cache
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/obj/Debug/net6.0/SEMCommerce.Infrastructure.AssemblyInfo.cs
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/obj/Debug/net6.0/SEMCommerce.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/obj/Debug/net6.0/SEMCommerce.Infrastructure.csproj.CopyComplete
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/obj/Debug/net6.0/SEMCommerce.Infrastructure.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/obj/Debug/net6.0/refint/SEMCommerce.Infrastructure.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/obj/Debug/net6.0/SEMCommerce.Infrastructure.pdb
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Infrastructure/obj/Debug/net6.0/ref/SEMCommerce.Infrastructure.dll

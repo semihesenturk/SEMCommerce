@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/SEMCommerce.Persistence.csproj": {}
+  },
+  "projects": {
+    "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/SEMCommerce.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/SEMCommerce.Application.csproj",
+        "projectName": "SEMCommerce.Application",
+        "projectPath": "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/SEMCommerce.Application.csproj",
+        "packagesPath": "/Users/semihesenturk/.nuget/packages/",
+        "outputPath": "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/semihesenturk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.buybase.com/nexus/service/local/nuget/buybase-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Domain/SEMCommerce.Domain.csproj": {
+                "projectPath": "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Domain/SEMCommerce.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Domain/SEMCommerce.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Domain/SEMCommerce.Domain.csproj",
+        "projectName": "SEMCommerce.Domain",
+        "projectPath": "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Domain/SEMCommerce.Domain.csproj",
+        "packagesPath": "/Users/semihesenturk/.nuget/packages/",
+        "outputPath": "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/semihesenturk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.buybase.com/nexus/service/local/nuget/buybase-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/SEMCommerce.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/SEMCommerce.Persistence.csproj",
+        "projectName": "SEMCommerce.Persistence",
+        "projectPath": "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/SEMCommerce.Persistence.csproj",
+        "packagesPath": "/Users/semihesenturk/.nuget/packages/",
+        "outputPath": "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/semihesenturk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.buybase.com/nexus/service/local/nuget/buybase-nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/SEMCommerce.Application.csproj": {
+                "projectPath": "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/SEMCommerce.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

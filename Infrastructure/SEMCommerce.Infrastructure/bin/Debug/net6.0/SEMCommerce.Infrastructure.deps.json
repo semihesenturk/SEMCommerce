@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SEMCommerce.Infrastructure/1.0.0": {
+        "dependencies": {
+          "SEMCommerce.Application": "1.0.0"
+        },
+        "runtime": {
+          "SEMCommerce.Infrastructure.dll": {}
+        }
+      },
+      "SEMCommerce.Application/1.0.0": {
+        "dependencies": {
+          "SEMCommerce.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SEMCommerce.Application.dll": {}
+        }
+      },
+      "SEMCommerce.Domain/1.0.0": {
+        "runtime": {
+          "SEMCommerce.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEMCommerce.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEMCommerce.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEMCommerce.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

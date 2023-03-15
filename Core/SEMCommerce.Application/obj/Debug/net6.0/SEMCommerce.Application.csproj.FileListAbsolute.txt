@@ -1,0 +1,15 @@
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/bin/Debug/net6.0/SEMCommerce.Application.deps.json
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/bin/Debug/net6.0/SEMCommerce.Application.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/bin/Debug/net6.0/SEMCommerce.Application.pdb
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/bin/Debug/net6.0/SEMCommerce.Domain.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/bin/Debug/net6.0/SEMCommerce.Domain.pdb
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/obj/Debug/net6.0/SEMCommerce.Application.csproj.AssemblyReference.cache
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/obj/Debug/net6.0/SEMCommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/obj/Debug/net6.0/SEMCommerce.Application.AssemblyInfoInputs.cache
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/obj/Debug/net6.0/SEMCommerce.Application.AssemblyInfo.cs
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/obj/Debug/net6.0/SEMCommerce.Application.csproj.CoreCompileInputs.cache
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/obj/Debug/net6.0/SEMCommerce.Application.csproj.CopyComplete
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/obj/Debug/net6.0/SEMCommerce.Application.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/obj/Debug/net6.0/refint/SEMCommerce.Application.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/obj/Debug/net6.0/SEMCommerce.Application.pdb
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Core/SEMCommerce.Application/obj/Debug/net6.0/ref/SEMCommerce.Application.dll
