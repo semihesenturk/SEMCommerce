@@ -29,3 +29,6 @@
 /Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Presentation/SEMCommerce.API/obj/Debug/net6.0/SEMCommerce.API.pdb
 /Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Presentation/SEMCommerce.API/obj/Debug/net6.0/SEMCommerce.API.genruntimeconfig.cache
 /Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Presentation/SEMCommerce.API/obj/Debug/net6.0/ref/SEMCommerce.API.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Presentation/SEMCommerce.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Presentation/SEMCommerce.API/bin/Debug/net6.0/SEMCommerce.Persistence.dll
+/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Presentation/SEMCommerce.API/bin/Debug/net6.0/SEMCommerce.Persistence.pdb

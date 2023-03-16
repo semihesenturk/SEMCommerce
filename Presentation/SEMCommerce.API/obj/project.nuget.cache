@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "S1DAhDkYB5m+AeVyIlh4lC8/u8/jQJHPubR1pWrQS654PBN5Zwsp+w4rqbeB5mokewBl5Pbb9aEFKnYbdHQK1g==",
+  "dgSpecHash": "0en9uoFRfiD//lN0RV9b3SXHjK27uXkjwXgLX2By4f2xZhh/9KUM1yGku2/nVx7maVWPjXk9ErAA3ZlSfH+Giw==",
   "success": true,
   "projectFilePath": "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Presentation/SEMCommerce.API/SEMCommerce.API.csproj",
   "expectedPackageFiles": [
     "/Users/semihesenturk/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/semihesenturk/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "/Users/semihesenturk/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/semihesenturk/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/Users/semihesenturk/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",

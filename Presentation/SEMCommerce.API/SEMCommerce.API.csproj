@@ -12,6 +12,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\..\Core\SEMCommerce.Application\SEMCommerce.Application.csproj" />
+      <ProjectReference Include="..\..\Infrastructure\SEMCommerce.Persistence\SEMCommerce.Persistence.csproj" />
     </ItemGroup>
 
 </Project>

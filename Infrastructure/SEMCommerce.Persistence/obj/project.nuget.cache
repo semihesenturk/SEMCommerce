@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kiNPu7C9hqXU6chbuGDgr53BziDtqp/e2ReDiZ1rnb/cL/hAezorkb/d90fK65nQzojO5C/sWfIxUxN/YVB92w==",
+  "dgSpecHash": "k5OgSeWxMuntbMK/6/25FkX5uPKwUgloh36VxbhQQX1jYk8kasR6tyPuOaxQJuQbunB0HKcFxQOK7hHmB1J1XQ==",
   "success": true,
   "projectFilePath": "/Users/semihesenturk/Desktop/Projects/Semih/SEMCommerce/SEMCommerce.API/SEMCommerce/Infrastructure/SEMCommerce.Persistence/SEMCommerce.Persistence.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/semihesenturk/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
